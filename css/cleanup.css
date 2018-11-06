@@ -1,1 +1,5 @@
 /* write your override styles here */
+
+.slick, .parent, .tag-1, #tag-2 {
+  opacity: 0
+}
